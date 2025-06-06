@@ -71,12 +71,8 @@ Se probaron los siguientes modelos:
 - XGBoost y LightGBM también alcanzan F1-scores altos (~0.85-0.90), con LightGBM siendo más rápido.
 
 ## Contribuciones
-Este proyecto fue desarrollado por Isabella Pérez. Si deseas contribuir, por favor abre un issue o envía un pull request con tus sugerencias o mejoras.
+ Si deseas contribuir, por favor abre un issue o envía un pull request con tus sugerencias o mejoras.
 
 
 ## Contacto
-Para preguntas o comentarios, contacta a Isabella Pérez en [isabellaperezcav@gmail.com].
-
-```
-
----
+Para preguntas o comentarios, contacta a Isabella Pérez en [isabellaperezcav@gmail.com](mailto:isabellaperezcav@gmail.com).
